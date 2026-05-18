@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2387,50:E94057,100:F27121&text=L%20S%20Rajesh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Developer%20%7C%20Generative%20AI%20Explorer&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Deep+Learning+Learner;Building+Future+AI+Systems" />
 
 <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -61,10 +61,10 @@
 <img align="right" width="250" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 🧠 AI & Machine Learning Enthusiast  
-🚀 Building Generative AI Applications  
-💻 Full Stack Web Developer  
-📚 Currently Learning Deep Learning & NLP  
-⚡ Passionate About Innovative Tech Projects  
+🤖 Exploring Generative AI & Deep Learning  
+📚 Learning NLP, Neural Networks & AI Systems  
+🚀 Building Intelligent AI Applications  
+⚡ Passionate About Future AI Innovations  
 
 </div>
 
