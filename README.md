@@ -1,14 +1,8 @@
 <div align="center">
 
-# L S Rajesh
-
-### AI • ML • Generative AI Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Full+Stack+Web+Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2387,50:E94057,100:F27121&text=L%20S%20Rajesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20Developer&descAlignY=60"/>
 
 </div>
-
----
 
 # 💫 About Me
 
