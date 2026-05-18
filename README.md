@@ -1,3 +1,15 @@
+<div align="center">
+
+# L S Rajesh
+
+### AI • ML • Generative AI Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Full+Stack+Web+Developer" />
+
+</div>
+
+---
+
 # 💫 About Me
 
 🔭 I’m currently working on  
